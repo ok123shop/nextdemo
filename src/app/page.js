@@ -8,7 +8,7 @@ export default function Home() {
           Get started by editing&nbsp;
           <code className="font-mono font-bold">src/app/page.js</code>
           &nbsp;
-          <code className="font-mono font-bold">lqjava</code>
+          <code className="font-mono font-bold">lqjava best</code>
         </p>
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
           <a
