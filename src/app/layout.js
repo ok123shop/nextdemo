@@ -50,10 +50,8 @@ export default function RootLayout({ children }) {
               ></path>
             </g>
           </svg>
-          <div className='bg-slate-800 p-20'>123</div>
-          <div className='bg-slate-950'>
-
-          <footer className="footer bg-slate-950 text-base-content p-10">
+          <div className='bg-slate-800'>
+          <footer className="footer  text-base-content p-10">
             <nav>
               <h6 className="footer-title">Services</h6>
               <a className="link link-hover">Branding</a>
@@ -108,6 +106,15 @@ export default function RootLayout({ children }) {
             </nav>
           </footer>
 
+          </div>
+          <div className='bg-slate-950'>
+
+          
+          <footer className="footer footer-center  text-base-content p-4">
+            <aside>
+              <p>Copyright © {new Date().getFullYear()} - All right reserved by ACME Industries Ltd</p>
+            </aside>
+          </footer>
           </div>
         </footer>
       </body>
